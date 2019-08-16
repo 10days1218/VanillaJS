@@ -1,1 +1,4 @@
-console.log('Im Working. Im JS Im Beautifule. Im worth it')
+function init() {
+    //title.addEventListener("click", handleClick);
+}
+init();
